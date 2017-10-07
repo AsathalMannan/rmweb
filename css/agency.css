@@ -45,10 +45,12 @@ section {
 
 ::-moz-selection {
   background: #2ecc71;
+  color: #111;
   text-shadow: none; }
 
 ::selection {
   background: #2ecc71;
+  color: #111;
   text-shadow: none; }
 
 img::selection {
